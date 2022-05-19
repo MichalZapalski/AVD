@@ -1,0 +1,8 @@
+rg_name = "my1rg"
+deploy_location = "west europe"
+appgr_name = "my1appgr"
+appgr_type = "Desktop"
+appgr_fr_name = "appgr_friendly_name"
+appgr_descript = "appgr description"
+appgr_disp_name = "Default desktop"
+hostpool_id = "/subscriptions/1e5d5a77-5bb8-493e-9a80-87271fc0c024/resourceGroups/my1rg/providers/Microsoft.DesktopVirtualization/hostpools/my1hp"

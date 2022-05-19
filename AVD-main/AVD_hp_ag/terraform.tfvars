@@ -1,0 +1,12 @@
+rg_name = "my1rg"
+deploy_location = "west europe"
+hp_name = "my1hp"
+hp_fr_name = "my1friendlyhp"
+hp_descript = "Some hp"
+
+appgr_name = "my1appgr"
+appgr_type = "Desktop"
+appgr_fr_name = "appgr_friendly_name"
+appgr_descript = "appgr description"
+appgr_disp_name = "Default desktop"
+workspace_id = "/subscriptions/1e5d5a77-5bb8-493e-9a80-87271fc0c024/resourceGroups/my1rg/providers/Microsoft.DesktopVirtualization/workspaces/my1workspace"
