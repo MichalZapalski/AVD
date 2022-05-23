@@ -7,5 +7,6 @@ resource "azuread_service_principal" "avd_spn" {
 }
 
 resource "azuread_service_principal_password" "avd_spn_pswd" {
-  service_principal_id = azuread_service_principal.avd_spn_pswd.id
+  service_principal_id = azuread_service_principal.avd_spn.id
 }
+

@@ -1,6 +1,6 @@
 output "spn_pswd" {
-value = azuread_service_principal_password.avd_spn_pswd.value
-sensitive = true
+      value = azuread_service_principal_password.avd_spn_pswd.value
+      sensitive = true
 }
 
 output "spn_app_id" {
